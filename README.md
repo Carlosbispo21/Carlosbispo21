@@ -3,7 +3,12 @@
 <p align="center">
   Desenvolvedor Front-End • Focado em criar soluções web com estilo e funcionalidade
 </p>
-
+---
+👨‍💻 Sobre mim
+Sou o Carlos, tenho 21 anos e sou estudante de Ciência da Computação.
+Atuo como desenvolvedor front-end, apaixonado por criar interfaces funcionais, limpas e com estilo. Curto transformar ideias em projetos reais usando tecnologias como React, Firebase, MySQL e CSS puro.
+No momento, estou me aprofundando em React e no ecossistema de desenvolvimento front-end moderno.
+Gosto de criar sistemas voltados para produtividade e soluções personalizadas — sempre buscando aprender, evoluir e entregar o melhor.
 ---
 
 ## 🚀 Tecnologias que mais uso
