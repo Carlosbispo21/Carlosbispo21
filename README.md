@@ -19,7 +19,9 @@
 </div>
 
 ---
-
+## 📊 Estatísticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbispo21)]
+---
 ## 📊 Outras ferramentas
 
 <div align="center">
