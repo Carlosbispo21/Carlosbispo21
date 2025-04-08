@@ -46,7 +46,7 @@
 ## 📫 Fale comigo
 
 - 📧 Email: `carlosbispo092@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/seuperfil]((https://www.linkedin.com/in/carlos-bispo21/))
+- 💼 LinkedIn: [linkedin.com/in/Carlosbispo]((https://www.linkedin.com/in/carlos-bispo21/))
 
 
 ---
