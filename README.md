@@ -45,9 +45,9 @@
 
 ## 📫 Fale comigo
 
-- 📧 Email: `seuemail@email.com`
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
-- 📸 Instagram Dev: [@seuuser](https://instagram.com/seuuser)
+- 📧 Email: `carlosbispo092@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/seuperfil]((https://www.linkedin.com/in/carlos-bispo21/))
+
 
 ---
 
