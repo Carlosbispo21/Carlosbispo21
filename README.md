@@ -20,7 +20,7 @@
 
 ---
 ## 📊 Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbispo21&theme=tokyonight)]
+[!(https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbispo21&theme=tokyonight)]
 ---
 ## 📊 Outras ferramentas
 
