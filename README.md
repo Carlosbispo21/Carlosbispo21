@@ -44,8 +44,7 @@ Gosto de criar sistemas voltados para produtividade e soluções personalizadas 
 
 
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbispo21&theme=tokyonight&layout=compact&custom_title=Tecnologias)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ---
 ## 📊 Outras ferramentas
 
