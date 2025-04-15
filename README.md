@@ -40,7 +40,7 @@ Gosto de criar sistemas voltados para produtividade e soluções personalizadas 
     alt="githun stats
     height="200px"
     style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbispo21&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+    src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbispo21&theme=tokyonight&layout=compact&custom_title=Tecnologias)"
     />
 
 </p>
